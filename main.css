@@ -1,0 +1,6 @@
+body{
+	font: fantasy;
+	text-align: center;
+	color: rgba(1,0,0,1);
+	background: linear-gradient(to right, red , yellow);
+}
